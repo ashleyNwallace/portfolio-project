@@ -1,3 +1,29 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #495057;
+  color: #f8f9fa;
+}
+
 .hero {
-  background-color: bisque;
+  background-color: #adb5bd;
+  color: #212529;
+}
+
+.weather {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-btn,
+.weather-btn {
+  background-color: #343a40;
+  border: none;
+}
+
+.about-btn:hover,
+.weather-btn:hover {
+  background-color: #e9ecef;
+  color: #212529;
 }
