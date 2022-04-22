@@ -43,3 +43,11 @@ body {
   background-position: center;
   box-shadow: 0 0 10px 5px black inset;
 }
+
+.contact {
+  color: #adb5bd;
+}
+
+.contact:hover {
+  color: #e9ecef;
+}
