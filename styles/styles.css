@@ -51,3 +51,12 @@ body {
 .contact:hover {
   color: #e9ecef;
 }
+
+.email-link {
+  text-decoration: none;
+  color: #212529;
+}
+
+.email-link:hover {
+  color: #adb5bd;
+}
